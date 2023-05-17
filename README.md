@@ -1,9 +1,9 @@
 Loktionov Ivan
+
 Date of Birth: 01 Aug 1997
 Region: Sumy
 Phone number: +38 (099) 201 89 67
 E-mail: ivanloktionov0108@gmail.com
-
 
 Key skills
  
@@ -40,27 +40,22 @@ System Engineer at EPAM
 
 Education
 
-Sumy State University (Sumy)
-Bachelor’s degree in Computerized control systems
-Sep 2015 - Jun 2019
-The studied directions: computerized management system and automation of the processes.
-Master’s degree in Computerized control systems
-Sep 2022 – present time
+ Sumy State University (Sumy)
+ Bachelor’s degree in Computerized control systems
+  Sep 2015 - Jun 2019
+ The studied directions: computerized management system and automation of the processes.
+ Master’s degree in Computerized control systems
+  Sep 2022 – present time
 
-Language Skills
-  
-English - B2
-Business correspondence, reading technical documentation, speaking.
+Language Skills  
+ English - B2
+ Business correspondence, reading technical documentation, speaking.
 
-Courses, trainings, certificates
-  
-PortaOne, Linux & Network Administration
-PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server apache, basics of VoIP, basics of troubleshooting.
-
-Microsoft, Azure Fundamentals
-Azure Fundamentals (AZ-900) – fundamentals of Azure and cloud systems  
-
+Courses, trainings, certificates  
+ PortaOne, Linux & Network Administration
+ PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server apache, basics of VoIP, basics of troubleshooting.
+ Microsoft, Azure Fundamentals
+ Azure Fundamentals (AZ-900) – fundamentals of Azure and cloud systems  
 
 Personal qualities
-  
-Responsible, able to analyze, troubleshoot, and solve complicated issues, able to learn quickly and make effective decisions, self-motivated, eager for studying.
+ Responsible, able to analyze, troubleshoot, and solve complicated issues, able to learn quickly and make effective decisions, self-motivated, eager for studying.
