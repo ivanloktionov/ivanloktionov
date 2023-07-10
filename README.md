@@ -1,4 +1,4 @@
-**Loktionov Ivan**
+# Loktionov Ivan
 
     • Date of Birth: 01 Aug 1997
     • Region: Sumy
@@ -43,23 +43,27 @@ July 2021 – Present time
     • Sumy State University (Sumy)
     • Bachelor’s degree in Computerized control systems
         Sep 2015 - Jun 2019
-        The studied directions: computerized management system and automation of the processes.
+        The studied directions: computerized management system and automation of the processes
 
 ## Language Skills  
     English - B2
-    Business correspondence, reading technical documentation, speaking.
+    Business correspondence, reading technical documentation, speaking
 
 # Courses, training, certificates
 
     • PortaOne, Linux & Network Administration
-    • PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server apache, basics of VoIP, basics of troubleshooting.
+      PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server apache, basics of VoIP, and basics of troubleshooting
     • Microsoft, Azure Fundamentals
-    • Azure Fundamentals (AZ-900) – fundamentals of Azure and cloud systems  
+    • Azure Fundamentals (AZ-900) – fundamentals of Azure and cloud systems
+    • Fundamentals of DevOps and Kubernetes in partnership with GlobalLogic 
 
 # Personal qualities
     • Responsible
     • Ability to analyze 
-    • Troubleshoot
+    • Troubleshooting
     • Solving complicated issues
     • Ability to learn quickly and make effective decisions
-    • Self-motivated, and eager for studying.
+    • Self-motivated, and eager for studying
+
+# Links
+    • https://github.com/ivanloktionov 
