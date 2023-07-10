@@ -8,9 +8,9 @@ Loktionov Ivan
 Key skills
 
     •	Linux administration
-    •   Troubleshooting skills 
-    •   Support applications 
-    •   Support infrastructure 
+    •    Troubleshooting skills 
+    •    Support applications 
+    •    Support infrastructure 
     •	Knowledge of TCP/IP networking, network protocol, and packet analysis
     •	MySQL
     •	Bash
