@@ -1,19 +1,19 @@
 Loktionov Ivan
 
-    •	Date of Birth: 01 Aug 1997
-    •	Region: Sumy
-    •	Phone number: +38 (099) 201 89 67
-    •	E-mail: ivanloktionov0108@gmail.com
+    • Date of Birth: 01 Aug 1997
+    • Region: Sumy
+    • Phone number: +38 (099) 201 89 67
+    • E-mail: ivanloktionov0108@gmail.com
 
 Key skills
 
-    •	Linux administration
-    •       Troubleshooting skills 
-    •       Support applications 
-    •       Support infrastructure 
-    •	Knowledge of TCP/IP networking, network protocol, and packet analysis
-    •	MySQL
-    •	Bash
+    • Linux administration
+    • Troubleshooting skills 
+    • Support applications 
+    • Support infrastructure 
+    • Knowledge of TCP/IP networking, network protocol, and packet analysis
+    • MySQL
+    • Bash
 
 Work experience
   
