@@ -16,7 +16,6 @@
     • Bash
 
 # Work experience
-  
 ## Senior technical support engineer at PortaOne
   August 2019 – July 2021
 
@@ -25,7 +24,6 @@
     • Troubleshooting product-related issues
     • Updating customers' installations to fresh releases
     • Migrating customers' installations to other locations
-
 ## System Engineer at EPAM
 July 2021 – Present time 
 
@@ -52,7 +50,7 @@ July 2021 – Present time
 # Courses, training, certificates
 
     • PortaOne, Linux & Network Administration
-      PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server apache, basics of VoIP, and basics of troubleshooting
+      PortaOne Linux & Network Administration course - educational program at PortaOne that covers administration of OC Linux, network administration, web-server Apache, basics of VoIP, and basics of troubleshooting
     • Microsoft, Azure Fundamentals
     • Azure Fundamentals (AZ-900) – fundamentals of Azure and cloud systems
     • Fundamentals of DevOps and Kubernetes in partnership with GlobalLogic 
