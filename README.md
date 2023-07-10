@@ -1,9 +1,9 @@
 Loktionov Ivan
 
- Date of Birth: 01 Aug 1997
- Region: Sumy
- Phone number: +38 (099) 201 89 67
- E-mail: ivanloktionov0108@gmail.com
+•	Date of Birth: 01 Aug 1997
+•	Region: Sumy
+•	Phone number: +38 (099) 201 89 67
+•	E-mail: ivanloktionov0108@gmail.com
 
 Key skills
  
