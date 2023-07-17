@@ -14,6 +14,11 @@
     • Knowledge of TCP/IP networking, network protocol, and packet analysis
     • MySQL
     • Bash
+    • GitHub
+    • GitHub Actions 
+    • Docker
+    • Kubernetes
+    • Azure
 
 # Work experience
 ## Senior technical support engineer at PortaOne
